@@ -1,0 +1,5 @@
+open-interpreter==0.3.17
+ollama==0.4.4
+playwright==1.48.0
+python-dotenv==1.0.1
+rich==13.9.4
